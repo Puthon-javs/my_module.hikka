@@ -35,7 +35,7 @@ from hikkatl.types import Message
 from .. import loader, utils
 
 UPDATE_URL = (
-    "https://raw.githubusercontent.com/eremeyko/ne_Hikka/refs/heads/master/Russia.py"
+    "https://raw.githubusercontent.com/Puthon-javs/my_module.hikka/refs/heads/main/Russia.py"
 )
 
 
