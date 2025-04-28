@@ -22,7 +22,7 @@ class CurrencyConverterMod(loader.Module):
             amount, from_curr, to_curr = args.split()
             amount = float(amount)
         except:
-            await utils.answer(message, "😤 <b>Соня, это же не числа!</b>\nПиши типа: <code>.convert 100 EUR USD</code>")
+            await utils.answer(message, "😤 <b>это же не числа!</b>\nПиши типа: <code>.convert 100 EUR USD</code>")
             return
 
         # Тут API (я юзала бесплатное exchangerate-api.com)
