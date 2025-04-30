@@ -1,4 +1,4 @@
-meta developer: @Python_Javs
+# meta developer: @Python_Javs
 
 from hikkatl.tl.types import User
 from hikkatl.tl.functions.users import GetFullUserRequest
